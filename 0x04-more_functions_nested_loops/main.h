@@ -1,5 +1,5 @@
-#ifndef MAIN.H
-#define MAIN.H
+#ifndef HEADER_FILE
+#define HEADER_FILE
 int _putchar(char c);
 int _isupper(int c);
 int _isdigit(int c);
